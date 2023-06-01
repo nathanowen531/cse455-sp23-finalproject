@@ -13,3 +13,5 @@ predict based off on pixels. In addition, we found memory issues that were start
 Our next steps with trying to recieve higher accuracy score led to researching the most modern architecture being EfficientNet classification model. This model led to great results leading to a high 84% accuracy and outbeating other classifications in terms of accuracy.
 This was beneficial to us because we allowered opportunities to improve from previous models and lead to better accuracy score. Though, the tradeoff is that we started to run out of memory as we began using more modern models. We wanted to try newer models than 
 EfficientNetB4, but simply ran out of memory. 
+
+For more information other than our overview, please refer to our figma link and watch our recording documenting and recording what we discovered. 
