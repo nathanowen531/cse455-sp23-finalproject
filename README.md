@@ -15,3 +15,18 @@ This was beneficial to us because we allowered opportunities to improve from pre
 EfficientNetB4, but simply ran out of memory. 
 
 For more information other than our overview, please refer to our figma link and watch our recording documenting and recording what we discovered. 
+image.png #this is our VGG IMAGE MODEL
+image.png # this is our EFFICIENTNETB0 image 
+![plot](./eNetB0180.jpg)
+image.png # this is RESNET50 
+image.png # this is our model showing it is 84% accuracy result 
+image.png # importing and unzipping data step 1 
+image.png # specifying and training a model step 2
+image.png # processing the image step 3
+image.png # random freezing images step 4
+image.png # Model summary step 5
+image.png #results of first image step 6 
+image.png # step 7
+image.png # step 8 
+image.png # step 9 
+image.png # step 10 
