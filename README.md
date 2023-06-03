@@ -15,18 +15,72 @@ This was beneficial to us because we allowered opportunities to improve from pre
 EfficientNetB4, but simply ran out of memory. 
 
 For more information other than our overview, please refer to our figma link and watch our recording documenting and recording what we discovered. 
+
+
+[![Watch the video](https://img.youtube.com/vi/XYIYyAueb4s/hqdefault.jpg)](https://youtu.be/XYIYyAueb4s)
+
 image.png #this is our VGG IMAGE MODEL
-image.png # this is our EFFICIENTNETB0 image 
+
+our EFFICIENTNETB0 images:
+
+EfficientNet with input size 180
+
 ![plot](./eNetB0180.jpg)
-image.png # this is RESNET50 
-image.png # this is our model showing it is 84% accuracy result 
-image.png # importing and unzipping data step 1 
-image.png # specifying and training a model step 2
-image.png # processing the image step 3
-image.png # random freezing images step 4
-image.png # Model summary step 5
-image.png #results of first image step 6 
-image.png # step 7
-image.png # step 8 
-image.png # step 9 
-image.png # step 10 
+
+EfficientNet with input size 280
+
+![plot](./eNetB0240.jpg)
+
+EfficientNet with input size 360
+
+![plot](./eNetB0360.jpg)
+
+
+our model showing it is 84% accuracy result:
+
+EfficientNetB4 with input size 480
+
+![plot](./eNetB4480.jpg)
+
+Below is our code or running EfficientNetB7 and getting our desired results 
+step1: Importing and Unzipping Data
+
+![plot](./step1.png)
+
+step 2: Specifying and Finding Data to Train
+
+![plot](./step2.png)
+
+step 3: processing the image 
+
+![plot](./step3.png)
+
+step 4: freezing non-top layers 
+
+![plot](./step4.png)
+
+step 5: Model summary 
+
+![plot](./step5.png)
+
+image.png 
+Step 6: Results of First Run
+
+![plot](./step6.png)
+
+Step 7: Unfreezing more layers
+
+![plot](./step7.png)
+
+step 8: Newest Model Testing
+
+![plot](./step8.png)
+
+step 9: Mapping prediction to label
+
+![plot](./step9.png)
+
+step 10: Export to kaggle
+
+![plot](./step10.png)
+
