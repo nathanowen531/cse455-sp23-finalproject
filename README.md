@@ -27,6 +27,7 @@ EfficientNetB4, but simply ran out of memory.
 
 For more information other than our overview, please refer to our figma link and watch our recording documenting and recording what we discovered. 
 
+Here is our code: https://colab.research.google.com/drive/1dRH6rUHP2WDVyHtNwbFn7VhZ05O6gXqL
 
 [![Watch the video](https://img.youtube.com/vi/XYIYyAueb4s/hqdefault.jpg)](https://youtu.be/XYIYyAueb4s)
 
